@@ -1,0 +1,1001 @@
+product_id,product_name,category_id,price,supplier_id,is_active,added_on
+1,Compatible multimedia secured line,41,60.11,95,True,2024-05-21 06:50:46
+2,Re-contextualized neutral archive,18,126.22,18,False,2025-04-19 23:54:37
+3,Horizontal bandwidth-monitored emulation,48,55.74,95,False,2024-03-01 00:15:35
+4,Grass-roots static matrices,35,48.03,55,True,2025-01-05 01:51:39
+5,Centralized tertiary parallelism,3,19.75,28,True,2025-04-06 22:09:45
+6,Realigned demand-driven solution,15,255.15,4,False,2025-04-01 22:09:57
+7,Organized executive algorithm,36,103.42,84,False,2023-10-19 21:18:40
+8,Reverse-engineered uniform capacity,45,274.75,29,False,2024-05-21 17:37:55
+9,Horizontal static productivity,29,296.69,1,True,2023-12-15 10:47:28
+10,Visionary 4thgeneration workforce,49,403.88,90,True,2024-06-06 00:34:25
+11,Sharable grid-enabled synergy,28,173.42,20,True,2024-09-30 19:57:51
+12,Up-sized secondary paradigm,14,478.82,44,True,2025-01-11 07:32:43
+13,Enterprise-wide bifurcated open architecture,7,50.91,13,True,2024-05-29 22:15:41
+14,Multi-tiered local knowledgebase,23,424.51,78,True,2024-10-19 23:23:04
+15,User-friendly homogeneous instruction set,17,404.53,94,False,2024-06-14 09:03:41
+16,Compatible 24hour challenge,30,270.43,49,True,2025-02-11 00:21:02
+17,Object-based disintermediate focus group,6,278.26,81,True,2025-04-02 06:29:15
+18,Automated client-driven utilization,40,443.3,47,True,2023-10-23 21:50:11
+19,Synergized tangible definition,37,100.18,9,True,2024-10-30 19:09:31
+20,Reverse-engineered needs-based analyzer,3,332.33,99,True,2025-06-09 21:12:07
+21,Expanded uniform intranet,19,492.68,30,False,2024-09-14 04:49:48
+22,Face-to-face intangible matrix,7,193.16,59,True,2024-11-02 12:00:03
+23,User-centric 3rdgeneration attitude,41,417.88,21,False,2025-05-13 09:17:48
+24,Organized reciprocal archive,24,180.86,86,True,2023-11-05 09:35:50
+25,Sharable exuding focus group,18,352.4,88,False,2023-10-13 13:07:33
+26,Grass-roots explicit algorithm,42,40.34,82,False,2023-11-16 15:36:39
+27,Extended dynamic time-frame,11,269.4,32,True,2023-08-29 18:48:54
+28,Persevering exuding infrastructure,11,233.82,35,True,2024-06-13 10:12:00
+29,Integrated client-driven workforce,41,345.64,29,True,2025-04-04 00:24:03
+30,Business-focused bifurcated neural-net,44,165.52,99,True,2024-01-19 10:35:36
+31,Pre-emptive web-enabled capacity,50,32.69,5,True,2023-12-28 13:53:02
+32,Cloned non-volatile paradigm,21,203.58,9,False,2024-04-14 04:03:48
+33,User-centric secondary implementation,14,457.0,73,False,2024-11-15 07:44:44
+34,Managed heuristic paradigm,46,160.77,84,False,2023-11-11 19:01:49
+35,Sharable contextually-based matrix,32,200.84,83,False,2024-06-16 20:02:51
+36,Multi-tiered empowering workforce,30,75.72,18,True,2024-02-29 01:29:33
+37,Robust 6thgeneration algorithm,16,373.77,69,True,2025-07-01 08:37:45
+38,Reactive fresh-thinking ability,17,374.77,55,True,2025-02-08 04:13:40
+39,Managed global architecture,38,202.7,29,False,2025-01-22 21:47:24
+40,Expanded zero tolerance flexibility,9,257.22,12,False,2024-02-21 05:32:51
+41,Synergized eco-centric neural-net,49,28.32,15,False,2024-07-19 19:10:38
+42,Digitized contextually-based monitoring,10,315.59,88,False,2024-01-05 17:46:38
+43,Re-engineered 24hour framework,28,300.22,50,False,2025-02-17 13:21:47
+44,Front-line discrete architecture,25,299.96,60,True,2025-06-29 16:41:18
+45,Multi-lateral even-keeled implementation,34,129.45,71,False,2025-02-05 01:24:06
+46,Total attitude-oriented hub,1,341.74,15,False,2024-07-20 15:30:26
+47,Implemented optimal customer loyalty,44,442.97,97,True,2024-04-14 20:43:39
+48,Cross-group bifurcated firmware,18,385.46,44,False,2025-03-10 05:57:25
+49,Reverse-engineered logistical moderator,8,150.28,21,False,2024-07-08 11:51:47
+50,Reverse-engineered foreground data-warehouse,30,6.61,93,True,2023-10-24 04:48:01
+51,Team-oriented 24/7 frame,47,135.38,65,True,2024-10-07 01:33:34
+52,Inverse executive encryption,49,93.43,14,False,2024-07-31 00:16:59
+53,Streamlined intermediate interface,41,152.73,82,True,2024-08-14 05:09:10
+54,Ergonomic actuating standardization,33,306.44,20,False,2025-03-27 21:33:13
+55,Multi-layered motivating application,24,382.44,70,True,2023-09-27 16:59:05
+56,Up-sized tangible monitoring,50,461.6,1,False,2024-01-17 00:21:20
+57,Configurable fault-tolerant database,39,165.46,3,False,2023-09-15 14:13:32
+58,Inverse background architecture,8,464.9,40,True,2024-01-05 20:30:05
+59,Optional mission-critical monitoring,16,33.67,73,False,2023-11-21 19:07:19
+60,Self-enabling bi-directional website,6,47.4,63,True,2024-07-23 12:10:22
+61,Reactive asynchronous neural-net,5,489.1,69,False,2023-09-25 16:45:03
+62,Balanced reciprocal secured line,50,67.25,85,False,2024-11-13 02:43:55
+63,Progressive foreground interface,31,473.69,22,True,2023-10-20 04:59:58
+64,Managed well-modulated knowledgebase,17,266.2,78,True,2024-05-22 21:11:06
+65,Stand-alone neutral projection,28,482.36,70,True,2023-10-31 00:22:29
+66,Optimized optimal protocol,49,366.32,26,True,2024-01-17 22:23:46
+67,Up-sized asynchronous hub,46,159.3,86,True,2023-11-28 07:15:17
+68,Triple-buffered value-added customer loyalty,42,189.84,67,True,2024-05-21 02:16:37
+69,Automated actuating contingency,29,64.9,29,True,2023-08-23 05:31:58
+70,Enterprise-wide motivating Internet solution,5,172.35,76,True,2024-11-25 16:09:53
+71,Team-oriented full-range standardization,36,118.91,29,True,2024-12-17 14:44:57
+72,Inverse client-driven concept,1,40.14,81,True,2025-02-06 14:00:03
+73,Cross-platform bandwidth-monitored frame,4,118.33,5,True,2023-08-02 07:40:58
+74,Open-architected incremental matrices,22,40.07,31,True,2023-09-30 04:28:44
+75,Intuitive asynchronous extranet,18,336.14,28,True,2025-02-04 17:54:43
+76,Reverse-engineered non-volatile circuit,35,70.49,74,True,2023-09-24 05:54:14
+77,Open-architected interactive encryption,37,238.97,61,True,2025-05-01 09:28:44
+78,User-centric multi-state circuit,27,99.25,13,True,2023-10-25 11:56:17
+79,Devolved even-keeled alliance,43,218.37,55,True,2024-03-16 06:49:39
+80,Focused optimizing capacity,27,236.18,94,True,2024-12-09 12:07:01
+81,Enhanced actuating hub,4,338.32,83,True,2023-10-28 17:23:15
+82,Streamlined 4thgeneration attitude,7,35.0,94,False,2025-02-05 05:33:37
+83,Seamless web-enabled analyzer,22,401.29,14,True,2023-10-08 13:20:22
+84,Virtual demand-driven extranet,16,99.84,69,False,2024-03-06 08:47:58
+85,Expanded directional orchestration,29,74.39,24,True,2023-12-08 14:00:53
+86,Focused secondary conglomeration,18,234.0,10,True,2023-11-30 02:40:54
+87,Programmable homogeneous budgetary management,29,404.97,71,True,2023-11-12 01:59:10
+88,Fully-configurable upward-trending policy,7,30.04,70,True,2024-03-28 17:26:32
+89,Open-source systematic forecast,1,484.65,97,True,2023-10-18 03:54:27
+90,Extended exuding contingency,16,87.32,63,False,2024-05-17 14:04:55
+91,Innovative zero administration website,31,110.8,52,True,2024-10-27 10:52:36
+92,Organic interactive utilization,4,86.5,1,True,2023-11-23 16:27:55
+93,Fundamental optimal migration,25,136.28,59,False,2024-06-09 15:11:19
+94,Ergonomic encompassing conglomeration,19,214.39,94,False,2023-08-23 10:43:57
+95,Upgradable optimal help-desk,36,332.63,63,True,2024-06-15 17:50:00
+96,Versatile logistical productivity,10,99.0,28,False,2024-07-13 22:17:29
+97,Self-enabling dynamic focus group,4,291.69,70,False,2024-09-29 01:17:02
+98,Reactive scalable product,4,375.25,8,True,2023-11-26 20:36:07
+99,Secured methodical emulation,4,294.17,65,True,2024-05-21 11:59:52
+100,Vision-oriented background groupware,34,82.93,66,False,2023-11-27 00:38:30
+101,Networked impactful hub,6,426.41,9,True,2024-09-21 04:29:12
+102,Cloned encompassing matrix,39,38.64,31,False,2025-06-08 00:06:37
+103,Networked cohesive hub,26,64.34,73,True,2025-05-19 16:09:50
+104,Sharable multimedia approach,16,291.56,6,False,2025-06-22 16:22:28
+105,Operative intangible framework,40,45.58,85,True,2024-02-04 04:25:08
+106,Phased zero tolerance hub,38,284.79,41,True,2024-01-21 16:17:37
+107,Open-architected optimal standardization,17,106.11,92,True,2023-11-12 19:19:28
+108,Horizontal leadingedge time-frame,21,123.15,51,True,2025-06-28 15:34:09
+109,Virtual hybrid Internet solution,9,337.49,39,False,2024-03-14 22:28:40
+110,Synchronized discrete Graphical User Interface,30,161.51,97,True,2024-09-20 00:00:41
+111,Reduced tangible solution,5,9.61,80,False,2025-06-30 07:15:51
+112,Open-source clear-thinking task-force,37,498.07,10,False,2025-05-26 03:58:51
+113,Visionary object-oriented neural-net,35,110.51,34,True,2025-02-12 01:11:03
+114,Fully-configurable coherent frame,9,466.96,9,True,2025-05-23 15:05:28
+115,Triple-buffered web-enabled info-mediaries,16,187.92,21,False,2025-06-28 15:06:11
+116,Reverse-engineered coherent framework,29,417.7,91,True,2024-03-31 05:27:43
+117,Phased attitude-oriented complexity,20,307.78,84,False,2024-07-01 14:08:19
+118,Stand-alone tangible instruction set,34,8.87,71,True,2025-02-09 17:25:40
+119,Self-enabling neutral definition,20,466.22,14,True,2024-02-07 22:52:28
+120,Extended stable forecast,9,135.91,14,False,2024-09-10 03:55:58
+121,Managed motivating synergy,48,278.85,35,False,2024-01-19 10:55:52
+122,Synchronized object-oriented algorithm,19,304.39,92,False,2025-03-12 16:12:12
+123,Cross-platform hybrid superstructure,22,105.78,82,False,2023-11-03 09:02:15
+124,Implemented non-volatile leverage,17,255.18,33,False,2024-11-19 08:51:48
+125,Front-line reciprocal portal,4,50.69,55,False,2025-06-01 22:35:05
+126,Virtual needs-based toolset,18,26.82,43,False,2023-09-10 01:03:21
+127,Operative bandwidth-monitored help-desk,50,69.76,34,True,2024-12-16 11:21:34
+128,Profit-focused attitude-oriented attitude,11,371.91,71,False,2025-06-07 18:44:13
+129,Profound solution-oriented customer loyalty,46,216.71,2,False,2024-07-04 21:08:31
+130,Cross-group 4thgeneration encryption,8,42.25,89,True,2024-08-01 05:16:59
+131,Expanded methodical capacity,10,275.07,48,True,2023-08-26 21:09:50
+132,Phased system-worthy concept,38,278.5,56,False,2025-04-16 20:45:26
+133,Visionary 24hour attitude,9,25.71,47,True,2024-08-31 16:04:26
+134,Seamless interactive matrices,3,449.97,27,False,2025-06-13 03:20:20
+135,Universal 3rdgeneration open architecture,44,128.52,14,True,2024-05-07 09:18:54
+136,Upgradable even-keeled orchestration,23,391.16,53,True,2023-10-11 15:01:33
+137,De-engineered bottom-line forecast,40,375.99,31,False,2025-03-11 20:51:19
+138,Exclusive optimizing throughput,11,488.22,23,True,2025-03-11 06:44:30
+139,Visionary leadingedge infrastructure,27,17.27,95,True,2024-03-19 05:38:20
+140,Stand-alone even-keeled circuit,22,392.28,53,False,2024-10-03 04:09:41
+141,Sharable composite info-mediaries,43,432.71,32,False,2024-02-27 10:28:47
+142,Monitored web-enabled initiative,18,83.8,90,True,2025-06-23 11:44:14
+143,Ergonomic radical benchmark,7,194.36,5,False,2023-10-27 20:04:14
+144,User-friendly optimal workforce,31,115.1,59,False,2024-11-12 22:01:20
+145,Innovative 24/7 data-warehouse,23,156.07,30,False,2025-04-09 12:48:56
+146,Re-engineered empowering middleware,15,16.71,25,False,2023-09-12 04:30:14
+147,Synchronized bifurcated contingency,26,167.49,9,False,2024-05-28 08:53:30
+148,Total human-resource structure,50,143.17,83,True,2024-09-24 15:11:15
+149,Persevering background process improvement,33,202.84,69,False,2024-06-26 19:08:42
+150,Synergistic 4thgeneration installation,22,469.92,15,False,2025-06-01 14:54:11
+151,Reactive directional data-warehouse,17,93.39,34,True,2023-12-30 12:16:13
+152,Right-sized bifurcated alliance,3,58.66,56,True,2024-05-09 17:50:03
+153,Customer-focused composite hardware,23,365.63,41,False,2024-09-27 18:54:48
+154,Assimilated bifurcated initiative,28,305.07,66,False,2025-01-20 02:50:51
+155,Fully-configurable non-volatile portal,8,195.67,74,True,2025-01-30 04:33:24
+156,Reduced 5thgeneration task-force,13,131.09,91,False,2023-09-13 06:13:43
+157,Ergonomic directional emulation,28,5.84,69,True,2024-02-08 07:08:24
+158,Extended methodical secured line,44,361.12,95,False,2025-04-19 07:09:45
+159,Polarized stable website,48,336.96,47,True,2024-12-25 16:04:45
+160,Grass-roots national utilization,28,39.64,86,True,2024-02-15 17:09:54
+161,Balanced non-volatile moratorium,22,313.46,85,False,2024-02-03 04:12:25
+162,Cross-group upward-trending approach,8,361.28,39,True,2025-05-13 22:55:20
+163,Optional modular policy,33,158.1,53,True,2023-08-10 09:20:34
+164,Compatible eco-centric moratorium,21,204.19,38,True,2023-09-30 16:16:24
+165,Open-architected 24/7 forecast,36,68.01,54,False,2024-12-01 10:30:00
+166,Triple-buffered optimizing protocol,43,470.48,87,False,2023-09-14 14:33:20
+167,Visionary 4thgeneration application,48,451.89,79,True,2024-12-02 18:16:19
+168,Diverse 5thgeneration collaboration,37,153.97,71,False,2024-09-20 11:43:21
+169,Operative intangible capability,1,155.42,27,False,2025-06-22 13:41:41
+170,Quality-focused 5thgeneration synergy,28,393.95,78,True,2025-05-22 15:37:37
+171,Secured real-time analyzer,42,164.51,57,True,2024-02-23 21:28:52
+172,Digitized bottom-line throughput,29,339.44,66,True,2024-01-28 08:40:19
+173,Profit-focused value-added groupware,31,397.9,95,True,2024-09-14 00:55:28
+174,Fundamental coherent approach,11,331.13,37,True,2024-03-16 01:53:40
+175,Exclusive asynchronous interface,33,333.61,80,True,2025-01-02 05:02:44
+176,Polarized non-volatile secured line,22,51.23,97,True,2024-07-23 08:02:19
+177,Reverse-engineered bandwidth-monitored database,16,338.03,29,False,2024-05-03 22:32:57
+178,Centralized attitude-oriented Graphic Interface,13,77.94,6,False,2023-09-26 21:54:37
+179,Total background utilization,16,492.05,79,False,2023-10-10 05:07:35
+180,Expanded client-driven toolset,50,41.05,54,False,2023-09-26 01:00:49
+181,Reduced systemic function,41,289.96,92,True,2023-10-25 05:53:08
+182,Innovative maximized secured line,45,195.07,52,True,2023-11-14 14:32:07
+183,Programmable next generation website,16,78.05,89,False,2023-09-18 15:59:33
+184,Implemented background capability,1,446.87,99,True,2025-04-24 20:29:07
+185,Public-key logistical product,7,390.32,29,True,2024-03-14 10:02:42
+186,Devolved mobile standardization,12,403.03,90,True,2025-03-03 05:03:17
+187,Robust didactic Internet solution,34,234.95,72,False,2025-05-01 15:36:17
+188,Profound holistic matrix,16,459.15,16,True,2024-02-25 21:41:13
+189,Optimized content-based portal,30,71.0,60,True,2024-01-13 14:57:19
+190,Reactive zero tolerance artificial intelligence,43,267.91,72,True,2025-06-24 02:49:45
+191,Sharable modular framework,39,162.06,97,False,2023-10-06 11:30:37
+192,Switchable homogeneous capability,29,308.26,93,False,2024-02-19 11:02:19
+193,Down-sized dynamic project,33,216.24,71,True,2023-10-12 12:23:04
+194,Monitored executive application,29,449.12,96,True,2025-01-13 13:43:23
+195,Front-line attitude-oriented groupware,31,227.78,97,True,2024-03-25 14:09:12
+196,Business-focused incremental policy,16,420.73,36,False,2024-06-12 16:42:16
+197,Switchable contextually-based info-mediaries,50,389.95,63,True,2024-05-22 20:41:48
+198,Reactive eco-centric hardware,41,123.43,57,True,2023-11-18 23:50:06
+199,Inverse context-sensitive system engine,5,358.2,31,False,2024-08-01 00:32:08
+200,User-centric fault-tolerant archive,18,171.24,70,True,2023-10-28 00:28:16
+201,Sharable high-level forecast,6,73.5,30,False,2025-01-21 20:45:53
+202,Cloned tertiary Local Area Network,25,348.51,91,False,2024-09-05 17:12:21
+203,Right-sized tertiary pricing structure,14,36.79,53,True,2024-08-19 11:14:09
+204,Progressive heuristic interface,22,273.59,54,True,2024-10-23 15:28:50
+205,Horizontal motivating open system,4,107.38,54,False,2023-12-30 16:35:47
+206,Centralized 4thgeneration hub,25,452.9,75,True,2024-10-13 00:48:11
+207,Self-enabling tangible superstructure,45,14.67,98,True,2024-06-12 04:27:54
+208,Organized grid-enabled protocol,37,193.29,1,False,2023-12-20 19:52:45
+209,Multi-lateral high-level time-frame,23,152.81,50,False,2024-02-27 04:59:53
+210,Digitized contextually-based knowledge user,27,271.42,95,False,2025-01-24 18:36:53
+211,Cross-group logistical collaboration,35,400.93,29,True,2024-05-21 01:35:11
+212,Devolved well-modulated projection,32,113.61,56,True,2024-05-21 18:06:28
+213,Multi-lateral 4thgeneration firmware,32,19.37,44,True,2025-05-20 22:29:57
+214,Advanced methodical adapter,43,341.18,52,False,2023-08-14 09:05:18
+215,Configurable explicit projection,47,86.7,60,True,2023-10-06 12:07:22
+216,Face-to-face 24hour implementation,9,490.46,69,False,2024-11-26 15:28:03
+217,Operative contextually-based firmware,2,453.93,76,True,2025-03-14 17:48:31
+218,Total multimedia intranet,37,333.18,11,False,2025-03-30 17:19:29
+219,Customer-focused 24hour ability,42,217.16,60,False,2025-04-03 09:00:57
+220,Open-source incremental moratorium,12,29.89,49,False,2023-08-26 22:21:08
+221,Synergistic encompassing website,21,109.77,42,False,2023-09-28 00:10:04
+222,Pre-emptive client-driven monitoring,22,381.81,49,True,2023-07-18 02:17:49
+223,Phased incremental concept,18,377.24,54,True,2024-08-04 15:17:38
+224,Up-sized bifurcated capability,17,418.28,61,True,2025-05-17 23:58:36
+225,Switchable cohesive challenge,2,375.77,7,True,2023-10-31 01:04:15
+226,Reactive client-server contingency,23,115.99,9,True,2024-09-16 00:26:40
+227,Distributed executive access,50,478.86,6,False,2024-02-12 19:39:15
+228,Phased fresh-thinking collaboration,49,20.36,32,False,2023-12-08 17:01:43
+229,Multi-channeled real-time parallelism,13,420.42,80,False,2024-02-27 22:05:02
+230,Automated 24hour flexibility,10,123.08,61,True,2023-08-11 09:53:02
+231,Up-sized web-enabled neural-net,43,61.62,28,True,2024-06-27 11:25:28
+232,Robust bifurcated emulation,30,351.24,99,True,2025-06-02 07:40:53
+233,Customer-focused tertiary budgetary management,24,88.06,78,True,2024-04-06 15:42:36
+234,Synchronized 4thgeneration time-frame,48,360.59,100,True,2023-12-09 23:30:36
+235,Intuitive zero-defect intranet,11,482.54,14,True,2023-11-17 01:26:32
+236,Visionary secondary moderator,38,17.71,40,False,2023-10-22 01:19:48
+237,Adaptive intermediate frame,37,340.29,49,True,2024-11-19 20:48:52
+238,Total static hierarchy,26,471.03,26,False,2024-09-16 08:59:05
+239,Balanced radical task-force,5,298.09,81,False,2024-08-22 06:14:28
+240,Front-line 4thgeneration capacity,16,55.44,99,False,2023-07-25 11:07:40
+241,Compatible 4thgeneration framework,20,425.9,77,True,2024-11-06 06:38:54
+242,Horizontal transitional groupware,8,399.13,73,True,2024-03-02 02:55:28
+243,Compatible reciprocal groupware,3,176.87,55,False,2023-10-18 04:02:33
+244,Virtual multimedia task-force,43,188.43,65,True,2025-07-03 07:59:40
+245,Streamlined empowering forecast,42,173.91,54,False,2024-09-15 17:03:30
+246,Open-source logistical forecast,32,57.24,47,False,2025-05-28 13:34:47
+247,Self-enabling clear-thinking neural-net,41,446.33,59,True,2023-11-25 06:11:12
+248,Configurable secondary migration,46,80.73,23,False,2024-09-15 13:14:36
+249,Seamless directional adapter,47,263.26,84,True,2023-12-31 13:14:17
+250,Versatile grid-enabled methodology,18,309.88,69,False,2024-11-22 03:13:30
+251,Triple-buffered 4thgeneration service-desk,50,244.33,56,True,2024-07-07 00:29:23
+252,Realigned optimal throughput,47,298.27,42,True,2024-12-11 16:13:21
+253,Digitized bandwidth-monitored definition,16,416.21,12,False,2024-11-05 02:47:14
+254,Up-sized transitional intranet,18,441.41,32,True,2025-07-04 08:45:11
+255,Front-line uniform initiative,49,235.03,79,False,2024-10-01 06:36:29
+256,Advanced foreground groupware,43,192.6,4,False,2024-03-19 02:48:30
+257,Monitored modular toolset,32,426.22,24,True,2024-10-14 04:56:26
+258,Re-engineered fault-tolerant standardization,32,110.0,34,False,2023-07-28 07:23:49
+259,Quality-focused well-modulated focus group,22,143.43,77,True,2024-10-01 10:24:13
+260,User-centric 24hour instruction set,45,440.65,72,False,2024-06-10 01:00:22
+261,Re-contextualized scalable application,1,260.73,25,False,2024-02-28 14:26:01
+262,Multi-channeled coherent model,6,124.47,53,False,2025-03-25 06:23:12
+263,Quality-focused interactive access,32,279.81,31,True,2023-09-01 21:34:33
+264,Upgradable actuating info-mediaries,45,240.67,92,True,2024-06-02 15:02:27
+265,Persevering disintermediate emulation,32,226.85,3,False,2025-02-18 10:11:56
+266,Future-proofed holistic intranet,6,150.65,52,True,2023-09-14 13:44:32
+267,Open-architected foreground circuit,45,125.44,85,False,2024-05-28 23:06:57
+268,Cross-group directional instruction set,38,187.67,71,False,2024-09-19 04:21:32
+269,Cloned exuding parallelism,34,175.16,96,False,2023-08-26 14:44:30
+270,Devolved heuristic definition,36,168.74,90,False,2023-07-28 00:40:58
+271,Profound even-keeled core,30,139.1,33,False,2025-01-23 14:11:11
+272,Open-architected reciprocal pricing structure,15,64.72,25,True,2024-11-20 07:50:03
+273,Seamless hybrid frame,21,64.18,69,True,2024-03-02 03:08:32
+274,Persevering zero-defect methodology,49,346.63,25,True,2024-03-19 01:47:49
+275,Advanced national forecast,14,370.61,36,False,2023-12-02 04:05:09
+276,Front-line value-added circuit,47,296.85,98,True,2023-11-24 08:14:26
+277,Extended exuding migration,34,300.41,13,True,2025-02-26 16:39:40
+278,Automated even-keeled artificial intelligence,13,151.64,47,False,2025-01-13 03:29:57
+279,De-engineered fault-tolerant budgetary management,12,154.62,91,False,2024-03-25 04:47:28
+280,Mandatory dynamic infrastructure,35,67.66,6,False,2023-10-04 00:06:43
+281,Inverse national Graphical User Interface,4,278.91,90,True,2024-07-02 06:20:38
+282,Horizontal optimal algorithm,9,320.75,97,True,2023-11-24 08:23:41
+283,Proactive non-volatile workforce,32,55.78,2,True,2023-07-23 17:14:05
+284,Diverse even-keeled concept,37,145.75,62,True,2024-06-27 07:49:54
+285,Centralized disintermediate task-force,29,173.65,7,True,2023-12-31 05:58:19
+286,Switchable client-server process improvement,17,470.83,62,True,2024-12-17 21:45:57
+287,Right-sized explicit help-desk,8,411.95,52,True,2025-07-04 04:10:30
+288,Face-to-face attitude-oriented Graphic Interface,32,41.67,81,False,2024-09-01 20:18:48
+289,Devolved multi-tasking info-mediaries,44,31.54,20,True,2023-08-16 21:47:52
+290,Grass-roots 3rdgeneration challenge,37,474.82,11,False,2024-06-14 01:09:25
+291,Object-based contextually-based solution,16,63.63,98,False,2024-10-20 05:10:58
+292,Cross-group leadingedge complexity,27,305.13,80,True,2024-07-23 02:37:22
+293,Implemented cohesive policy,15,388.97,49,True,2025-04-16 04:24:08
+294,De-engineered 4thgeneration framework,29,454.71,39,True,2024-05-23 10:41:43
+295,Persistent needs-based throughput,38,495.07,40,True,2025-06-14 04:15:16
+296,Decentralized heuristic software,37,312.41,79,True,2024-10-12 15:21:22
+297,Enhanced impactful implementation,48,54.12,98,False,2023-12-22 03:44:04
+298,Phased 24hour infrastructure,14,314.63,34,True,2023-10-18 03:11:22
+299,Multi-channeled web-enabled alliance,43,45.19,31,True,2023-10-14 04:16:10
+300,Focused optimizing complexity,12,278.24,21,False,2023-08-16 04:24:56
+301,Innovative national time-frame,1,207.22,89,True,2023-07-18 00:06:07
+302,Enterprise-wide coherent analyzer,39,237.61,5,False,2023-09-24 01:38:19
+303,Synchronized optimal application,15,147.61,37,True,2024-10-01 20:30:04
+304,Front-line secondary encryption,45,430.51,10,True,2024-04-27 08:21:46
+305,Secured directional matrix,44,120.54,34,False,2024-07-24 12:56:05
+306,Configurable real-time approach,41,296.95,26,True,2023-08-26 06:19:38
+307,Stand-alone 3rdgeneration contingency,28,61.81,29,False,2024-10-05 23:32:34
+308,Stand-alone global Internet solution,42,78.75,35,True,2024-04-29 18:21:26
+309,Digitized contextually-based Graphical User Interface,10,40.35,22,True,2025-01-17 21:17:12
+310,Universal systematic focus group,20,299.55,73,False,2024-07-28 10:26:12
+311,Cloned multimedia support,19,222.38,60,True,2024-04-11 23:44:25
+312,Right-sized fault-tolerant ability,45,155.53,52,False,2024-06-25 05:50:52
+313,Reduced regional workforce,18,252.73,64,True,2024-01-04 08:25:19
+314,Adaptive executive utilization,29,44.82,6,False,2024-04-04 09:38:22
+315,Upgradable didactic challenge,28,368.59,78,False,2024-01-10 02:53:45
+316,Configurable human-resource projection,17,17.8,30,False,2024-07-10 04:14:49
+317,Persistent zero tolerance monitoring,44,418.8,74,False,2023-09-08 17:27:19
+318,Horizontal full-range implementation,38,475.64,98,True,2024-06-18 17:10:08
+319,Upgradable executive encryption,44,411.6,74,False,2023-07-22 02:07:46
+320,User-centric bottom-line pricing structure,3,382.74,23,True,2025-02-19 00:56:37
+321,Multi-channeled dedicated service-desk,31,261.89,57,False,2025-01-05 06:30:18
+322,Customer-focused attitude-oriented secured line,18,94.84,75,False,2024-08-02 15:46:41
+323,Optimized intangible structure,28,319.22,63,False,2024-04-01 04:19:37
+324,Centralized grid-enabled conglomeration,6,237.66,53,False,2024-07-11 21:24:47
+325,Stand-alone well-modulated instruction set,22,163.92,14,True,2023-10-17 05:11:14
+326,Assimilated zero tolerance orchestration,11,168.25,89,True,2024-09-14 05:43:01
+327,Cross-group tangible project,32,147.67,52,True,2024-07-16 10:37:37
+328,Reactive analyzing installation,49,277.3,59,False,2023-09-07 17:24:51
+329,Up-sized regional approach,6,160.69,42,True,2023-10-22 16:07:14
+330,Fully-configurable asymmetric service-desk,8,485.24,52,True,2024-05-10 15:29:55
+331,Polarized responsive neural-net,33,413.34,1,False,2025-07-01 09:52:33
+332,Organic 4thgeneration info-mediaries,43,435.34,60,False,2025-04-13 14:36:44
+333,Polarized responsive interface,27,31.83,67,True,2024-03-28 13:03:13
+334,Fully-configurable client-driven collaboration,24,313.2,64,True,2024-12-24 08:28:02
+335,Pre-emptive bottom-line moratorium,41,223.81,7,True,2024-10-09 02:13:44
+336,Distributed asynchronous challenge,14,137.19,17,True,2025-04-08 00:57:01
+337,Sharable multi-state success,19,221.87,90,True,2024-11-25 17:50:06
+338,Profound holistic instruction set,32,65.11,81,True,2025-06-19 04:20:52
+339,Proactive attitude-oriented artificial intelligence,39,400.66,91,True,2025-04-29 01:31:41
+340,Distributed real-time function,11,158.82,2,True,2023-07-28 20:46:25
+341,Balanced 4thgeneration synergy,36,206.96,29,True,2024-06-28 09:30:35
+342,Mandatory zero administration encryption,8,233.42,16,False,2025-02-15 11:16:38
+343,Public-key non-volatile standardization,42,416.91,64,True,2025-05-20 17:35:29
+344,Fully-configurable tangible standardization,46,149.47,91,True,2023-12-20 00:42:48
+345,Digitized empowering Internet solution,18,210.67,62,True,2024-10-19 16:57:13
+346,Switchable responsive middleware,31,125.65,71,True,2024-05-02 06:07:54
+347,Seamless demand-driven capacity,10,194.88,77,False,2025-02-17 12:11:48
+348,Public-key transitional firmware,33,374.41,18,True,2024-07-27 09:26:42
+349,Switchable neutral customer loyalty,5,141.74,54,False,2024-08-01 02:06:18
+350,Open-source global open system,22,467.45,65,True,2025-05-27 11:27:27
+351,Mandatory demand-driven moderator,18,411.17,37,True,2023-08-13 03:27:42
+352,Cross-platform bandwidth-monitored time-frame,47,152.79,76,True,2024-12-11 09:58:09
+353,Assimilated human-resource website,38,499.46,63,True,2023-11-16 05:35:53
+354,Total interactive infrastructure,10,226.04,62,True,2023-12-02 00:25:16
+355,Optional leadingedge utilization,23,169.56,98,True,2025-05-19 00:38:15
+356,Multi-layered asymmetric workforce,35,191.72,42,True,2024-07-25 00:49:53
+357,Enterprise-wide even-keeled functionalities,13,490.48,31,True,2023-12-30 11:02:05
+358,Fully-configurable mobile hierarchy,37,194.57,100,False,2024-05-11 18:43:14
+359,Intuitive web-enabled info-mediaries,27,26.61,96,False,2024-07-10 14:17:13
+360,Open-source empowering moderator,31,354.09,49,False,2024-08-12 06:06:41
+361,Implemented optimizing interface,25,494.26,84,True,2023-11-17 00:35:55
+362,Grass-roots object-oriented forecast,10,250.19,5,False,2024-04-22 15:19:41
+363,Decentralized 3rdgeneration function,9,253.63,76,False,2024-11-08 22:18:05
+364,Devolved foreground ability,22,435.5,57,False,2024-10-03 12:23:53
+365,De-engineered non-volatile instruction set,7,265.35,59,True,2024-05-04 15:41:52
+366,Public-key full-range budgetary management,1,362.61,53,True,2025-04-07 19:08:02
+367,Synergistic actuating instruction set,42,485.13,10,False,2023-10-18 06:23:07
+368,Versatile local instruction set,31,391.86,34,False,2024-07-28 09:42:08
+369,Enhanced radical emulation,22,313.51,51,False,2024-03-16 07:57:24
+370,Total 3rdgeneration pricing structure,42,44.76,43,False,2024-10-07 22:53:00
+371,Vision-oriented didactic extranet,44,430.37,49,False,2025-05-23 13:20:19
+372,Future-proofed client-driven archive,21,315.27,98,True,2024-10-01 03:14:08
+373,Customizable exuding Internet solution,32,436.83,5,False,2024-04-25 11:10:49
+374,Adaptive contextually-based circuit,40,38.87,81,True,2024-02-24 11:04:37
+375,Proactive maximized neural-net,44,460.86,30,False,2025-07-07 06:45:10
+376,Total static superstructure,48,49.74,13,False,2023-07-16 23:10:05
+377,Horizontal grid-enabled methodology,49,318.71,13,False,2024-09-24 16:41:33
+378,Persistent client-driven hub,29,87.35,39,True,2025-05-13 05:05:45
+379,Programmable explicit standardization,2,27.77,8,False,2023-08-21 10:50:20
+380,Persevering 4thgeneration database,19,182.44,56,True,2024-11-27 18:27:42
+381,Seamless multi-tasking challenge,10,125.88,53,True,2024-02-24 09:10:01
+382,Organized next generation software,37,342.49,24,True,2025-03-04 10:12:50
+383,Fully-configurable content-based intranet,11,91.66,79,False,2025-01-29 23:59:21
+384,Distributed system-worthy approach,25,311.76,31,False,2025-01-04 19:38:25
+385,Triple-buffered encompassing functionalities,32,456.85,19,True,2025-01-19 14:46:33
+386,Object-based mobile initiative,15,233.27,33,False,2025-01-28 23:53:28
+387,Organic 24/7 infrastructure,30,131.39,2,True,2024-05-23 05:34:24
+388,Self-enabling directional secured line,30,451.1,87,True,2025-05-01 07:34:27
+389,Programmable interactive customer loyalty,35,83.2,57,True,2023-10-07 17:48:09
+390,Cloned client-driven utilization,23,493.89,39,True,2023-08-02 03:10:26
+391,Business-focused uniform service-desk,41,481.2,89,False,2024-02-24 01:12:24
+392,Profit-focused encompassing capacity,17,231.13,39,True,2025-04-06 18:35:23
+393,Function-based zero administration moratorium,13,499.69,62,True,2023-12-18 00:30:03
+394,Versatile didactic interface,7,122.42,74,False,2024-12-17 22:29:05
+395,Re-engineered homogeneous adapter,23,289.53,90,False,2023-11-18 08:16:05
+396,Team-oriented needs-based portal,19,15.86,85,False,2024-08-02 12:16:30
+397,Up-sized user-facing productivity,26,140.87,73,True,2025-01-03 17:27:03
+398,Expanded homogeneous access,44,390.26,7,True,2024-11-20 07:13:25
+399,Synergistic eco-centric portal,39,373.86,37,True,2025-06-02 21:34:56
+400,Optional radical challenge,50,400.44,78,True,2024-09-20 20:29:03
+401,Multi-layered intangible focus group,23,113.41,25,False,2025-01-17 14:45:57
+402,Business-focused bifurcated core,40,129.06,97,True,2024-01-31 06:16:44
+403,Secured holistic task-force,47,384.9,88,True,2025-06-16 10:45:58
+404,Re-contextualized didactic hub,9,315.98,81,True,2025-04-12 19:18:35
+405,Streamlined 24hour archive,42,24.51,57,True,2025-06-09 07:44:09
+406,Managed explicit infrastructure,3,291.89,94,True,2024-07-15 04:51:48
+407,Monitored zero tolerance moderator,9,49.62,38,False,2024-12-29 18:21:21
+408,Triple-buffered secondary approach,21,375.0,23,False,2025-05-23 21:31:43
+409,Business-focused didactic moderator,13,70.42,70,False,2024-08-10 21:42:32
+410,Re-engineered scalable system engine,24,267.77,35,False,2025-02-02 05:33:41
+411,Automated executive extranet,11,132.2,62,False,2023-09-03 00:47:41
+412,Centralized executive approach,19,374.55,44,True,2024-01-16 01:38:29
+413,Cloned grid-enabled initiative,8,236.82,10,True,2025-06-05 04:59:22
+414,Profound global archive,10,378.3,29,False,2023-12-24 23:58:37
+415,Managed content-based model,44,363.49,51,False,2024-12-01 11:56:31
+416,Customer-focused even-keeled migration,36,186.06,51,False,2023-12-27 20:17:25
+417,Polarized fault-tolerant knowledgebase,1,135.91,16,True,2024-04-10 17:17:06
+418,Profit-focused actuating customer loyalty,30,187.45,96,True,2024-11-08 03:29:39
+419,Sharable 24/7 benchmark,44,134.77,49,False,2024-08-16 03:30:39
+420,Intuitive homogeneous forecast,41,470.44,14,False,2023-10-05 12:58:30
+421,Pre-emptive local neural-net,44,120.74,4,True,2023-08-09 03:24:48
+422,Cross-group real-time alliance,40,442.7,72,True,2025-06-01 06:53:46
+423,Persistent stable benchmark,21,458.05,29,False,2025-06-08 04:26:24
+424,Robust multi-tasking solution,42,36.29,60,False,2024-11-24 17:54:33
+425,Triple-buffered demand-driven matrices,45,154.58,53,False,2023-09-29 23:31:07
+426,Optional background benchmark,8,74.19,5,True,2024-08-15 20:44:56
+427,Networked interactive website,20,497.98,15,False,2024-06-04 04:37:53
+428,Customizable attitude-oriented open system,7,121.23,69,False,2024-07-11 04:28:32
+429,Networked leadingedge help-desk,9,197.38,48,False,2025-02-02 15:43:34
+430,Universal multi-state customer loyalty,43,474.94,90,False,2023-12-13 20:05:19
+431,Diverse incremental architecture,35,212.47,96,False,2025-05-17 16:35:08
+432,Balanced uniform Graphic Interface,47,81.49,54,True,2024-03-26 15:11:33
+433,Public-key demand-driven hub,42,54.02,63,True,2024-01-26 15:02:08
+434,Multi-channeled secondary moratorium,40,207.02,36,True,2024-10-10 20:53:39
+435,Monitored interactive Graphic Interface,3,346.69,28,False,2025-01-10 03:45:09
+436,Distributed needs-based hub,29,225.12,31,True,2024-04-20 09:58:27
+437,Front-line dynamic paradigm,24,54.18,88,False,2024-10-14 21:54:50
+438,Visionary well-modulated migration,24,274.51,83,True,2024-02-16 08:51:27
+439,Diverse human-resource initiative,23,34.97,36,False,2023-10-30 10:10:37
+440,Cross-platform maximized time-frame,13,484.26,59,False,2024-07-20 11:20:00
+441,Managed next generation analyzer,6,333.07,83,True,2024-12-22 07:19:50
+442,Managed needs-based flexibility,41,300.59,3,False,2024-06-08 08:35:01
+443,Reactive mobile portal,4,394.46,32,True,2023-07-15 10:46:55
+444,Vision-oriented dedicated ability,9,394.55,27,True,2025-03-15 16:55:14
+445,Profound global database,5,415.76,71,True,2025-06-10 21:32:36
+446,Persistent context-sensitive matrices,14,295.26,30,False,2024-05-05 13:31:46
+447,Optional optimizing open architecture,22,388.31,77,False,2023-12-31 12:35:45
+448,Function-based foreground architecture,1,142.25,19,False,2024-04-25 06:05:48
+449,User-centric tertiary approach,9,272.41,23,True,2024-03-16 14:38:23
+450,De-engineered multi-state hub,8,332.22,4,True,2024-06-07 08:34:33
+451,Customer-focused disintermediate ability,9,12.36,31,False,2024-07-08 22:17:02
+452,Ergonomic 24hour monitoring,38,165.27,23,False,2025-06-28 16:34:16
+453,Phased clear-thinking success,17,30.94,95,True,2024-11-19 08:44:04
+454,Persevering well-modulated definition,27,265.41,96,False,2025-05-13 23:55:41
+455,Universal composite matrices,5,240.74,100,False,2024-07-10 12:04:10
+456,Persevering value-added system engine,24,259.05,14,True,2023-10-13 23:48:23
+457,Virtual motivating frame,29,254.4,79,True,2024-03-15 21:56:29
+458,De-engineered system-worthy superstructure,3,364.99,85,False,2024-11-29 21:35:52
+459,Profit-focused human-resource customer loyalty,34,154.31,83,True,2025-03-09 03:12:30
+460,Robust analyzing access,2,35.11,62,False,2025-06-15 21:46:40
+461,Configurable client-server archive,26,216.01,14,True,2025-04-14 16:14:19
+462,Digitized transitional focus group,32,357.64,57,True,2023-12-09 09:00:38
+463,Implemented systematic frame,5,450.14,42,False,2023-12-27 08:27:00
+464,Synergistic actuating hardware,39,78.43,17,False,2024-12-04 16:40:57
+465,Polarized system-worthy protocol,18,314.04,75,False,2024-07-10 21:32:45
+466,Cross-platform web-enabled process improvement,36,357.52,49,False,2025-06-12 17:10:52
+467,Optimized bottom-line service-desk,39,267.63,59,False,2024-10-06 14:23:58
+468,Self-enabling methodical benchmark,33,304.69,13,True,2024-04-20 10:19:12
+469,Triple-buffered reciprocal Internet solution,45,61.63,84,True,2025-03-02 15:30:55
+470,Open-architected impactful throughput,42,439.46,71,False,2024-05-23 00:25:09
+471,Implemented 6thgeneration portal,47,433.42,56,False,2025-01-24 00:19:02
+472,Synergized homogeneous moderator,29,444.61,53,True,2023-12-10 09:25:01
+473,Horizontal zero-defect flexibility,22,414.57,52,True,2023-07-25 16:11:39
+474,Seamless transitional hierarchy,27,366.16,41,True,2023-11-14 12:45:45
+475,Horizontal client-driven service-desk,28,159.7,33,True,2024-12-22 22:49:39
+476,Universal high-level customer loyalty,24,477.03,88,False,2024-07-02 13:00:06
+477,Secured dedicated solution,31,38.23,11,True,2023-10-18 21:29:58
+478,Cross-group optimal archive,6,218.78,96,False,2024-01-28 19:01:56
+479,Fully-configurable regional strategy,48,189.46,17,True,2024-07-02 08:33:31
+480,Ameliorated high-level solution,36,34.69,72,True,2024-07-17 13:40:09
+481,Synchronized dynamic instruction set,36,168.17,16,True,2025-02-23 04:13:42
+482,Customizable full-range methodology,27,180.03,86,False,2024-10-09 20:18:48
+483,Customizable attitude-oriented groupware,49,214.35,93,True,2025-02-09 22:33:12
+484,Total bandwidth-monitored analyzer,4,484.36,77,True,2024-05-15 10:35:14
+485,Triple-buffered coherent instruction set,20,179.06,74,True,2023-08-04 23:27:51
+486,Profit-focused 5thgeneration challenge,33,110.31,85,False,2024-04-07 21:54:18
+487,Realigned object-oriented structure,31,116.0,14,True,2024-12-13 01:35:43
+488,Fundamental maximized Graphical User Interface,23,423.46,48,False,2024-06-30 01:44:45
+489,Realigned demand-driven definition,8,382.49,74,True,2024-02-21 14:22:59
+490,Profit-focused motivating structure,15,404.57,72,True,2024-04-15 07:08:20
+491,Pre-emptive background policy,50,410.12,79,True,2023-10-03 20:05:47
+492,Horizontal object-oriented initiative,44,323.14,4,False,2024-09-26 22:41:26
+493,Cross-group eco-centric info-mediaries,39,464.9,89,True,2025-06-07 05:51:41
+494,Triple-buffered motivating installation,18,19.33,35,False,2024-05-07 23:07:50
+495,Horizontal systematic encoding,45,382.39,44,True,2023-07-29 22:21:18
+496,Expanded background methodology,23,8.02,19,False,2023-10-27 20:20:23
+497,Switchable incremental interface,37,330.39,9,True,2023-11-02 16:57:48
+498,Vision-oriented multi-state circuit,10,371.78,4,True,2024-05-12 05:47:03
+499,Public-key full-range firmware,6,374.33,28,False,2025-06-11 10:26:07
+500,Down-sized uniform methodology,25,212.82,44,False,2023-10-19 22:41:40
+501,Implemented 24hour analyzer,11,188.18,93,True,2024-12-28 10:20:54
+502,User-centric systematic protocol,21,389.53,73,True,2023-07-28 06:11:24
+503,Quality-focused hybrid secured line,39,47.05,7,True,2023-09-17 04:29:44
+504,Innovative static synergy,10,82.92,80,True,2025-03-16 15:37:08
+505,Ameliorated foreground array,4,338.61,35,False,2023-07-30 19:38:36
+506,Realigned zero administration Graphical User Interface,29,332.66,63,True,2023-12-21 00:48:20
+507,Digitized modular budgetary management,39,223.81,35,False,2024-11-29 07:13:44
+508,Exclusive upward-trending approach,14,378.7,15,False,2025-01-02 18:22:31
+509,Up-sized dedicated encoding,23,217.81,37,True,2025-06-09 01:44:30
+510,Operative solution-oriented data-warehouse,44,340.85,63,True,2024-10-18 19:13:36
+511,Universal well-modulated customer loyalty,34,335.23,6,True,2023-09-19 13:19:23
+512,Centralized analyzing success,15,200.66,77,True,2024-10-11 20:34:37
+513,Business-focused multi-tasking policy,4,8.81,39,False,2024-01-10 11:31:58
+514,Cloned neutral intranet,14,384.84,98,False,2023-10-08 14:56:51
+515,Upgradable 24hour workforce,17,148.28,16,True,2025-05-05 03:01:12
+516,Public-key 6thgeneration conglomeration,1,251.21,56,False,2024-11-23 02:00:03
+517,Focused full-range standardization,12,68.95,69,True,2023-08-31 04:24:14
+518,Managed needs-based policy,46,118.9,72,False,2023-11-28 16:39:46
+519,Secured systemic application,43,404.07,10,False,2025-02-05 13:40:02
+520,Focused actuating firmware,26,431.57,6,False,2023-12-30 11:21:55
+521,Sharable leadingedge instruction set,28,14.28,10,False,2023-09-18 20:45:23
+522,Fully-configurable zero administration instruction set,21,290.0,74,False,2023-11-21 10:59:02
+523,Public-key secondary algorithm,26,356.2,54,False,2025-03-15 20:12:42
+524,Configurable client-driven challenge,19,62.01,3,False,2024-11-16 11:24:16
+525,Optimized multi-state architecture,21,90.08,80,True,2025-05-04 16:36:39
+526,Virtual object-oriented framework,30,416.85,47,False,2024-07-02 12:27:33
+527,Total eco-centric throughput,6,221.17,14,False,2025-04-29 20:11:22
+528,Adaptive grid-enabled structure,16,220.66,52,True,2023-09-07 07:33:13
+529,Cross-group 5thgeneration hardware,34,43.93,40,False,2024-09-10 03:01:35
+530,Extended systematic time-frame,48,173.06,43,False,2024-01-18 00:33:15
+531,Advanced reciprocal Internet solution,50,88.23,66,False,2025-07-03 08:37:20
+532,Exclusive real-time knowledge user,41,61.44,66,False,2024-08-06 10:50:23
+533,Implemented client-driven attitude,13,453.43,45,False,2024-10-08 03:02:09
+534,Decentralized value-added function,23,365.05,83,True,2024-12-11 09:21:17
+535,Optimized real-time emulation,10,121.95,19,False,2024-05-24 03:51:49
+536,Upgradable heuristic project,17,102.65,78,True,2025-02-19 10:50:40
+537,Upgradable bi-directional initiative,10,381.31,84,False,2024-06-07 21:05:49
+538,Polarized system-worthy attitude,5,92.69,99,False,2024-07-30 18:33:03
+539,Polarized hybrid capacity,41,249.59,97,False,2024-08-27 08:53:32
+540,Quality-focused didactic installation,37,381.14,58,True,2024-06-11 23:55:20
+541,Quality-focused multi-tasking secured line,44,462.46,73,False,2024-04-14 19:33:06
+542,Assimilated background superstructure,42,319.47,80,False,2024-05-15 02:08:23
+543,Vision-oriented zero tolerance productivity,21,432.8,81,True,2024-07-03 07:35:27
+544,Open-architected context-sensitive parallelism,21,79.72,9,True,2023-12-02 02:01:50
+545,Optimized intermediate Internet solution,31,223.89,39,False,2024-08-14 21:45:07
+546,Team-oriented multimedia access,18,297.75,46,False,2025-01-05 05:20:15
+547,Team-oriented content-based knowledge user,33,41.72,60,False,2024-05-15 12:45:41
+548,Configurable hybrid Graphic Interface,29,23.62,48,True,2023-12-04 13:25:09
+549,Reactive secondary portal,19,42.98,12,False,2025-06-03 22:31:36
+550,Universal national portal,40,299.07,50,True,2024-07-06 08:27:57
+551,Implemented optimal paradigm,30,292.26,95,True,2025-03-31 00:43:18
+552,Intuitive non-volatile monitoring,3,227.62,74,True,2023-10-25 09:59:32
+553,Inverse global process improvement,42,98.18,78,False,2024-07-19 03:32:21
+554,Persistent coherent Internet solution,31,253.18,8,True,2024-10-22 16:13:37
+555,Proactive homogeneous frame,29,56.23,44,True,2024-09-10 13:32:56
+556,Ergonomic next generation hub,46,46.74,83,False,2024-08-28 11:33:46
+557,Assimilated foreground algorithm,12,24.38,91,True,2025-06-24 11:52:35
+558,Triple-buffered explicit capability,29,495.54,68,False,2024-06-18 12:02:07
+559,Customer-focused zero-defect info-mediaries,34,306.85,47,True,2024-07-21 03:30:58
+560,Reactive optimal core,24,459.38,50,False,2023-09-04 10:58:11
+561,Devolved optimizing help-desk,27,388.36,87,False,2024-04-09 16:13:02
+562,Cross-group national monitoring,39,30.92,81,False,2023-09-12 11:07:15
+563,Stand-alone bifurcated function,42,170.65,43,False,2024-06-08 23:00:12
+564,Balanced analyzing projection,7,281.19,50,True,2025-03-04 04:33:26
+565,Balanced 24hour structure,19,129.74,85,False,2023-12-01 17:49:57
+566,Fundamental encompassing policy,39,437.27,43,False,2024-11-19 02:55:30
+567,Enterprise-wide multi-state knowledge user,6,293.46,19,False,2025-04-20 21:11:20
+568,Pre-emptive grid-enabled productivity,23,158.56,84,False,2023-08-19 18:45:31
+569,Self-enabling discrete project,45,332.76,17,True,2025-03-04 05:55:46
+570,Digitized optimizing customer loyalty,39,355.87,11,True,2023-10-16 00:39:29
+571,Customer-focused upward-trending collaboration,20,281.67,83,True,2024-11-15 06:09:00
+572,Advanced asymmetric project,22,407.53,86,False,2024-05-11 03:18:24
+573,Self-enabling 5thgeneration methodology,45,415.33,95,True,2023-11-21 20:42:31
+574,Re-engineered web-enabled adapter,44,456.66,12,False,2024-12-06 23:07:48
+575,Stand-alone radical hardware,42,336.88,66,True,2023-11-29 19:38:51
+576,Diverse discrete core,24,14.02,40,False,2024-10-23 19:33:52
+577,Expanded bottom-line productivity,12,475.83,44,False,2023-07-24 06:51:41
+578,Networked composite analyzer,50,245.7,29,True,2025-03-10 20:42:32
+579,Proactive scalable customer loyalty,9,81.7,38,True,2025-07-11 13:19:04
+580,Devolved empowering toolset,7,256.31,70,True,2025-06-13 19:25:06
+581,Networked solution-oriented strategy,48,442.42,5,False,2023-10-27 23:45:55
+582,Fundamental tangible workforce,43,171.7,99,False,2024-06-26 14:11:43
+583,Multi-lateral disintermediate leverage,40,69.87,49,False,2024-11-16 08:55:25
+584,Horizontal 4thgeneration standardization,10,85.31,89,True,2024-07-30 10:41:39
+585,Team-oriented background workforce,50,314.25,22,False,2025-02-23 11:15:31
+586,Grass-roots fault-tolerant infrastructure,47,221.65,53,False,2024-10-18 05:58:10
+587,Multi-layered incremental service-desk,24,339.8,31,False,2025-06-16 14:52:30
+588,Proactive eco-centric application,29,307.24,97,False,2024-05-02 14:20:01
+589,Quality-focused modular toolset,48,392.98,30,True,2024-04-18 04:40:42
+590,Stand-alone exuding extranet,35,123.39,61,True,2023-12-29 02:38:40
+591,Function-based full-range success,13,187.08,74,True,2024-02-15 03:00:28
+592,Multi-tiered solution-oriented interface,29,233.53,37,False,2024-08-31 18:56:22
+593,Switchable intangible help-desk,50,194.03,68,False,2023-12-13 09:17:04
+594,Synchronized value-added flexibility,27,483.3,26,False,2023-12-13 03:10:46
+595,Implemented next generation support,39,73.51,33,True,2024-12-06 19:04:53
+596,Multi-channeled solution-oriented neural-net,4,322.38,48,False,2024-11-12 10:18:49
+597,Diverse intangible methodology,36,467.48,92,True,2024-06-13 08:15:13
+598,Object-based exuding model,34,426.33,37,True,2024-01-14 18:49:57
+599,Distributed 4thgeneration protocol,6,382.74,35,False,2024-07-13 07:32:34
+600,Multi-lateral multi-tasking leverage,29,453.13,19,True,2025-06-29 01:02:01
+601,Profound real-time frame,28,50.4,29,True,2023-11-12 15:51:35
+602,Visionary solution-oriented installation,29,442.89,4,False,2025-03-27 17:39:08
+603,Seamless next generation data-warehouse,27,31.36,65,False,2025-04-16 02:32:47
+604,Streamlined eco-centric framework,24,121.71,11,True,2025-05-18 20:13:09
+605,Upgradable intermediate policy,24,116.15,41,False,2024-03-30 00:47:10
+606,Public-key 5thgeneration help-desk,7,420.39,84,True,2025-02-23 20:55:47
+607,Up-sized fault-tolerant functionalities,22,396.73,18,True,2024-04-17 15:27:51
+608,Up-sized 5thgeneration policy,3,147.01,61,True,2024-08-28 08:01:54
+609,Future-proofed impactful Local Area Network,45,416.4,98,True,2025-01-31 07:18:09
+610,Advanced actuating knowledgebase,46,237.21,79,True,2024-02-14 20:58:50
+611,Enhanced well-modulated portal,1,453.4,3,False,2023-12-11 11:08:08
+612,Re-contextualized 6thgeneration standardization,17,111.75,20,False,2024-06-23 04:15:11
+613,Focused user-facing matrix,36,470.41,78,True,2025-04-28 01:54:50
+614,Reverse-engineered foreground flexibility,34,214.51,100,False,2025-03-15 12:44:33
+615,Monitored static product,19,122.63,16,False,2023-07-15 19:51:18
+616,Front-line next generation algorithm,4,123.03,82,True,2024-06-03 15:51:43
+617,Devolved full-range open architecture,40,231.27,15,True,2023-10-05 12:01:16
+618,Multi-channeled 5thgeneration service-desk,32,300.39,3,True,2024-12-28 08:53:10
+619,Total scalable ability,41,260.11,31,True,2024-04-03 21:51:28
+620,Ameliorated stable contingency,46,76.07,55,False,2023-09-23 06:52:41
+621,Integrated demand-driven Graphical User Interface,1,309.33,31,True,2025-05-29 06:57:39
+622,Cloned client-driven Local Area Network,37,211.2,86,False,2024-02-02 19:16:43
+623,Visionary systemic software,43,47.38,47,False,2024-12-24 19:29:02
+624,Focused directional system engine,5,476.93,70,False,2024-11-05 00:27:55
+625,Virtual full-range core,33,394.27,65,True,2025-03-22 12:51:18
+626,Up-sized uniform attitude,36,15.07,61,True,2023-10-30 14:05:28
+627,Front-line stable help-desk,3,319.66,48,False,2023-08-03 18:48:11
+628,Grass-roots composite initiative,17,374.92,46,True,2023-12-02 12:45:06
+629,Persevering empowering collaboration,5,175.68,94,False,2024-06-13 07:24:23
+630,Synergistic homogeneous contingency,43,315.99,99,False,2024-04-04 06:14:02
+631,Customizable system-worthy application,38,368.92,43,False,2024-04-19 10:19:29
+632,Proactive directional moderator,9,26.95,70,True,2024-09-14 10:03:30
+633,Universal systematic hardware,22,407.69,23,True,2024-02-24 08:14:50
+634,Mandatory attitude-oriented firmware,50,343.92,90,False,2025-02-18 18:38:34
+635,Optional 6thgeneration website,31,317.71,18,False,2025-04-11 23:18:27
+636,Self-enabling attitude-oriented paradigm,5,359.44,59,True,2024-03-19 21:44:56
+637,Cross-platform attitude-oriented matrices,3,150.25,6,False,2025-06-11 14:49:22
+638,Innovative grid-enabled help-desk,13,443.47,41,True,2025-02-18 03:43:40
+639,Synergized directional solution,20,260.11,70,False,2025-01-04 16:18:02
+640,Automated well-modulated instruction set,31,130.39,97,True,2024-07-14 04:52:09
+641,Enterprise-wide needs-based benchmark,42,99.6,46,False,2024-06-30 00:07:40
+642,Exclusive dynamic intranet,50,28.66,84,True,2024-05-06 08:35:31
+643,Cross-platform client-driven array,22,140.24,48,False,2024-03-14 16:30:30
+644,Phased holistic interface,28,445.3,96,False,2025-01-22 20:03:43
+645,Virtual value-added concept,29,447.85,50,False,2024-06-06 12:40:59
+646,Function-based bandwidth-monitored conglomeration,22,486.99,64,False,2024-06-05 16:25:10
+647,Assimilated multimedia extranet,45,251.27,67,False,2023-10-12 04:08:34
+648,Profound zero tolerance projection,18,401.57,94,False,2024-05-11 18:46:42
+649,Diverse 24/7 parallelism,28,44.07,78,False,2025-07-05 17:18:20
+650,Centralized interactive orchestration,12,275.01,42,True,2023-09-15 05:26:12
+651,Robust intermediate encoding,7,44.63,85,True,2025-03-16 19:08:23
+652,Front-line regional policy,19,156.72,78,True,2023-09-07 09:28:59
+653,Optional value-added methodology,46,215.93,89,True,2024-03-09 11:41:19
+654,Managed 5thgeneration structure,29,179.02,6,True,2025-01-22 04:57:37
+655,Seamless optimizing moratorium,47,435.67,46,True,2025-06-23 21:30:33
+656,De-engineered systematic strategy,40,499.08,36,False,2024-06-01 09:06:36
+657,Organic discrete service-desk,41,490.11,8,True,2023-11-23 16:06:22
+658,Virtual didactic focus group,5,337.24,52,True,2025-04-15 01:38:23
+659,Vision-oriented multi-tasking open architecture,24,258.98,96,False,2023-08-10 23:54:11
+660,Integrated motivating hardware,44,84.19,4,True,2024-12-03 20:37:18
+661,Implemented solution-oriented collaboration,10,425.09,87,True,2023-11-01 22:15:56
+662,Multi-layered real-time encryption,29,22.23,9,False,2024-02-28 09:38:09
+663,Multi-lateral 6thgeneration service-desk,16,390.37,47,True,2024-09-13 14:51:17
+664,Enhanced zero tolerance success,24,194.51,73,True,2023-10-03 06:29:18
+665,Fully-configurable eco-centric capacity,3,304.52,87,False,2024-04-18 03:16:40
+666,Visionary holistic intranet,29,474.67,48,True,2024-07-08 11:53:31
+667,Enterprise-wide real-time pricing structure,29,382.73,74,True,2023-10-05 16:52:33
+668,Universal full-range frame,9,267.08,51,False,2023-07-30 23:16:51
+669,User-friendly executive product,21,326.53,32,True,2023-12-09 20:34:32
+670,Configurable multi-state strategy,8,17.83,24,True,2024-11-25 13:38:42
+671,Innovative dynamic Internet solution,32,261.28,72,False,2024-04-26 10:44:43
+672,Face-to-face attitude-oriented alliance,8,134.58,34,False,2024-11-30 10:39:36
+673,Diverse static paradigm,46,225.91,79,False,2024-07-21 18:23:44
+674,Decentralized systematic project,19,348.52,63,True,2024-03-17 04:46:15
+675,Ameliorated incremental circuit,13,65.71,10,False,2024-10-08 03:21:12
+676,Customizable systematic Local Area Network,29,90.46,92,False,2023-10-18 08:52:40
+677,Networked zero tolerance Graphical User Interface,29,498.64,88,True,2025-06-17 16:41:21
+678,Organized didactic complexity,21,335.58,91,False,2023-10-06 17:55:20
+679,Optimized client-server software,5,277.25,38,False,2023-09-14 20:57:15
+680,User-friendly actuating superstructure,20,426.42,92,False,2024-07-26 01:26:19
+681,Focused regional collaboration,46,464.03,82,True,2023-09-26 04:32:24
+682,Reverse-engineered neutral encryption,12,397.88,66,False,2024-09-24 15:59:30
+683,Compatible zero tolerance Graphic Interface,15,65.07,26,False,2023-12-28 07:16:59
+684,Synergistic logistical Internet solution,9,122.18,64,False,2024-07-22 01:53:39
+685,Customizable zero administration algorithm,2,183.64,74,True,2023-10-26 10:47:03
+686,Re-contextualized multimedia software,24,236.37,71,False,2024-07-24 14:59:29
+687,Adaptive leadingedge project,9,307.91,12,True,2024-04-06 01:18:56
+688,Right-sized user-facing process improvement,5,158.1,92,False,2023-09-13 00:06:06
+689,Multi-layered dedicated approach,47,241.94,53,True,2024-02-10 01:24:13
+690,Intuitive actuating access,50,207.67,74,True,2023-07-16 16:11:48
+691,De-engineered zero-defect project,5,67.04,41,True,2025-02-07 17:58:40
+692,Programmable dynamic open architecture,42,41.71,60,False,2024-09-15 03:39:44
+693,Seamless 5thgeneration data-warehouse,44,261.09,17,False,2025-07-11 07:56:51
+694,Integrated scalable hardware,50,277.9,76,True,2023-11-21 05:31:41
+695,Right-sized foreground middleware,12,385.05,17,False,2024-06-27 15:29:15
+696,Virtual hybrid application,28,253.92,8,True,2024-11-26 20:54:41
+697,Vision-oriented actuating flexibility,8,261.46,39,True,2024-10-23 16:56:01
+698,Vision-oriented uniform toolset,11,85.17,91,True,2024-02-09 06:21:39
+699,Open-source systemic solution,15,176.28,67,False,2024-12-20 19:55:19
+700,Monitored exuding product,19,423.74,33,True,2024-08-31 19:07:52
+701,Universal uniform circuit,13,319.35,71,True,2025-03-15 19:03:23
+702,Optimized needs-based middleware,18,66.96,39,True,2023-08-15 19:01:02
+703,Compatible dynamic neural-net,40,269.07,65,False,2023-10-22 18:18:08
+704,Organized context-sensitive archive,42,88.47,75,True,2025-05-18 21:42:39
+705,Versatile foreground attitude,10,89.74,80,True,2024-01-18 01:40:42
+706,Grass-roots homogeneous approach,47,451.49,44,True,2024-09-07 19:19:28
+707,Integrated cohesive collaboration,37,25.39,4,True,2023-09-26 15:32:07
+708,Front-line national protocol,6,27.5,83,False,2023-11-20 10:06:11
+709,Multi-lateral disintermediate conglomeration,50,290.5,84,True,2025-03-01 22:07:56
+710,Reactive user-facing customer loyalty,14,384.64,54,False,2025-01-30 01:14:51
+711,Compatible web-enabled service-desk,40,321.3,64,True,2024-08-21 07:31:04
+712,Decentralized uniform time-frame,41,275.06,83,False,2024-05-26 09:36:08
+713,Face-to-face intangible access,20,244.06,88,True,2024-09-01 13:48:06
+714,Re-contextualized systematic secured line,26,152.23,10,False,2023-09-16 20:54:31
+715,Streamlined tangible matrices,45,34.66,57,True,2025-02-04 13:08:24
+716,Multi-tiered radical access,27,244.7,27,False,2025-02-12 22:35:38
+717,Profound optimizing strategy,22,305.3,41,True,2024-11-26 10:30:36
+718,Pre-emptive interactive matrices,46,163.06,45,True,2023-08-16 23:20:32
+719,Balanced 3rdgeneration help-desk,26,69.73,48,True,2023-09-12 20:41:49
+720,Function-based tangible structure,33,283.02,41,True,2025-03-09 08:59:52
+721,Business-focused methodical access,16,235.9,35,False,2023-10-08 18:20:15
+722,Optional disintermediate flexibility,29,127.72,13,False,2024-04-20 18:08:09
+723,Assimilated solution-oriented secured line,4,148.65,50,False,2025-04-22 23:07:59
+724,Robust fresh-thinking benchmark,40,211.98,21,True,2023-12-27 10:02:22
+725,Persevering 24hour moderator,21,467.21,93,True,2023-09-12 23:12:13
+726,Virtual bifurcated time-frame,21,98.97,21,False,2025-02-16 08:24:17
+727,Configurable regional firmware,32,498.0,60,False,2024-03-04 04:19:20
+728,Multi-lateral empowering hierarchy,32,440.14,64,False,2024-10-24 10:06:04
+729,Phased client-server pricing structure,2,49.57,51,False,2024-04-04 09:25:26
+730,Mandatory human-resource budgetary management,33,231.33,31,False,2023-12-03 15:06:25
+731,Persevering interactive methodology,14,293.76,7,True,2024-01-11 16:04:37
+732,Organic local superstructure,4,144.27,77,False,2025-04-01 22:32:05
+733,Customizable system-worthy system engine,42,337.9,37,False,2024-08-04 06:24:49
+734,Profit-focused intangible system engine,35,9.05,14,True,2025-04-29 13:43:27
+735,Optimized disintermediate paradigm,28,71.3,34,True,2024-05-18 09:55:12
+736,Customer-focused client-driven support,47,186.06,52,False,2025-02-25 05:36:58
+737,Multi-tiered zero-defect intranet,24,27.39,7,False,2023-12-29 00:34:22
+738,Assimilated holistic hierarchy,37,283.1,47,False,2023-12-20 06:11:48
+739,Persevering bandwidth-monitored customer loyalty,36,147.86,50,False,2025-04-29 06:27:14
+740,Progressive mission-critical synergy,33,227.93,71,True,2025-04-11 11:30:36
+741,Balanced composite superstructure,18,413.53,80,True,2023-12-27 23:31:56
+742,Synergized solution-oriented structure,44,307.47,17,False,2024-02-21 08:10:58
+743,Synchronized homogeneous architecture,7,199.98,44,True,2024-02-27 21:19:19
+744,Object-based homogeneous conglomeration,36,469.78,97,False,2024-06-05 15:26:58
+745,Expanded upward-trending data-warehouse,10,103.53,66,True,2024-02-27 16:25:42
+746,Synergized bifurcated archive,26,252.54,6,False,2024-05-30 07:12:22
+747,Vision-oriented bandwidth-monitored software,3,72.83,43,True,2023-11-24 08:22:08
+748,Self-enabling static benchmark,31,262.07,20,True,2023-12-03 05:52:09
+749,Implemented multimedia emulation,39,447.1,18,True,2024-10-20 21:25:27
+750,Object-based national support,21,466.03,41,False,2023-12-20 01:16:12
+751,Operative empowering matrices,11,199.51,79,True,2025-04-25 21:23:36
+752,Function-based human-resource functionalities,48,422.09,76,True,2024-09-02 11:44:19
+753,Re-contextualized human-resource parallelism,22,256.12,66,False,2025-06-12 00:27:36
+754,Polarized 3rdgeneration data-warehouse,35,247.47,73,True,2024-09-12 05:50:56
+755,Realigned zero-defect emulation,20,240.07,3,True,2023-08-03 02:17:34
+756,Grass-roots needs-based definition,24,168.96,15,False,2024-12-23 13:00:25
+757,Robust secondary emulation,27,293.93,93,False,2025-01-28 06:58:36
+758,Focused system-worthy artificial intelligence,45,316.48,77,False,2024-04-04 16:50:53
+759,Re-engineered contextually-based synergy,31,136.44,84,True,2025-03-08 12:53:03
+760,Triple-buffered radical budgetary management,50,291.34,30,False,2024-11-23 04:49:56
+761,Down-sized mission-critical approach,47,30.42,62,True,2024-03-24 07:06:09
+762,Right-sized directional focus group,11,264.5,93,True,2023-08-15 00:53:18
+763,Fundamental actuating implementation,40,388.43,49,False,2025-07-08 14:52:34
+764,Synergized client-server paradigm,10,411.72,32,True,2023-09-13 18:23:10
+765,Quality-focused local concept,3,288.42,90,True,2024-08-14 00:07:24
+766,Diverse even-keeled matrices,8,99.44,57,True,2024-08-17 21:54:22
+767,Ergonomic 3rdgeneration array,21,212.3,53,False,2023-10-08 19:41:41
+768,Organized tangible paradigm,45,105.93,65,False,2024-05-18 04:04:36
+769,Streamlined actuating matrices,50,307.68,61,True,2024-12-19 01:31:00
+770,Organized multi-tasking pricing structure,48,365.06,91,False,2025-03-16 18:22:34
+771,Upgradable multi-state projection,9,261.75,72,True,2025-04-18 19:58:40
+772,Re-engineered mission-critical forecast,21,499.07,62,False,2024-10-31 06:00:19
+773,Organized regional policy,34,191.53,23,True,2024-03-13 08:08:03
+774,Diverse client-driven benchmark,30,456.5,44,False,2023-10-16 14:35:42
+775,Customizable even-keeled moratorium,35,180.37,99,False,2025-03-17 03:06:54
+776,Managed intangible help-desk,47,341.97,89,False,2025-02-04 03:38:00
+777,Cross-platform neutral process improvement,17,306.99,25,False,2024-12-08 00:08:45
+778,Customer-focused 24/7 Internet solution,16,143.11,39,True,2024-07-28 15:46:46
+779,Extended responsive website,15,471.04,39,False,2025-05-05 13:14:11
+780,Triple-buffered foreground installation,50,148.06,27,True,2023-09-23 16:11:30
+781,Open-source dedicated attitude,45,353.97,41,True,2024-10-17 07:54:04
+782,Persistent high-level help-desk,31,177.66,93,False,2025-04-07 10:47:42
+783,Enhanced value-added system engine,18,147.46,74,False,2023-09-30 09:18:22
+784,Operative radical function,44,273.88,51,False,2024-05-25 23:16:35
+785,Extended mobile open architecture,23,477.53,19,False,2023-09-05 06:43:18
+786,Cross-group object-oriented data-warehouse,19,25.82,92,False,2025-05-04 14:40:26
+787,Team-oriented tertiary parallelism,6,176.45,57,False,2024-10-05 04:48:13
+788,Reduced actuating infrastructure,42,131.94,62,False,2023-11-18 13:56:09
+789,Total actuating budgetary management,14,105.02,69,False,2023-12-20 00:45:30
+790,Stand-alone 24/7 methodology,18,466.85,90,True,2024-06-07 00:10:16
+791,Proactive grid-enabled core,18,72.95,79,False,2025-01-02 09:40:34
+792,Down-sized bifurcated info-mediaries,48,295.48,32,True,2025-03-26 09:50:50
+793,Team-oriented content-based instruction set,4,336.57,68,True,2025-03-26 07:08:19
+794,Front-line asynchronous leverage,15,320.78,7,False,2025-05-10 20:29:55
+795,Progressive full-range flexibility,7,209.58,92,False,2023-08-09 13:27:58
+796,Versatile 6thgeneration function,31,54.77,99,False,2024-10-21 17:39:54
+797,Centralized dynamic leverage,9,7.56,71,False,2023-11-15 23:32:05
+798,Right-sized heuristic synergy,11,206.42,61,True,2024-04-25 17:12:38
+799,Programmable zero-defect groupware,31,327.02,97,False,2024-01-02 19:11:39
+800,Mandatory system-worthy instruction set,19,163.98,83,True,2024-12-21 08:16:18
+801,Right-sized optimizing neural-net,4,454.43,12,False,2025-04-17 11:03:44
+802,Decentralized coherent matrices,42,289.2,69,True,2025-01-31 01:44:18
+803,Extended real-time product,48,362.94,5,True,2023-11-02 02:55:50
+804,Inverse zero-defect Graphical User Interface,12,211.85,23,True,2024-06-16 06:30:31
+805,Future-proofed asymmetric policy,3,498.6,51,False,2025-02-05 16:51:56
+806,Enterprise-wide fresh-thinking open architecture,32,97.22,96,True,2024-11-11 22:33:18
+807,User-centric eco-centric methodology,19,438.99,2,False,2025-06-08 15:06:49
+808,Enhanced bi-directional strategy,20,286.14,14,True,2025-01-10 23:52:10
+809,Ergonomic impactful workforce,22,145.86,83,True,2023-10-14 11:48:21
+810,Total needs-based infrastructure,35,264.54,18,True,2024-09-27 23:11:03
+811,Right-sized empowering help-desk,33,236.67,25,True,2023-09-25 23:16:36
+812,Expanded uniform throughput,8,168.69,94,False,2024-01-23 14:26:27
+813,Intuitive discrete attitude,30,325.9,92,True,2024-05-09 17:30:21
+814,Extended zero-defect application,12,11.97,44,False,2024-01-16 08:33:36
+815,Advanced zero administration website,19,286.05,97,False,2024-10-18 10:42:35
+816,Open-architected multi-state protocol,13,91.87,82,False,2024-03-30 09:19:55
+817,Vision-oriented regional analyzer,26,414.36,66,False,2024-10-10 03:45:34
+818,Optimized tangible protocol,21,47.94,86,True,2024-04-18 13:32:29
+819,Reduced national Local Area Network,7,96.47,18,True,2024-11-12 03:54:50
+820,Grass-roots upward-trending alliance,31,165.18,32,False,2025-02-13 01:48:10
+821,Seamless real-time conglomeration,1,134.09,31,False,2023-10-03 16:37:57
+822,Persevering mission-critical productivity,29,378.11,43,False,2025-06-03 23:21:32
+823,Ergonomic full-range projection,20,293.32,74,False,2025-06-30 03:27:36
+824,Cross-group intangible initiative,1,134.47,47,False,2023-08-31 02:35:42
+825,Cloned demand-driven data-warehouse,45,121.97,86,False,2024-07-11 12:47:05
+826,Ergonomic interactive knowledge user,8,235.37,21,True,2024-07-17 13:15:53
+827,Team-oriented client-driven capability,26,344.61,91,False,2024-12-03 07:25:00
+828,Face-to-face tertiary frame,50,158.93,16,True,2025-01-10 17:52:54
+829,Enterprise-wide fault-tolerant capacity,41,458.48,38,False,2023-11-22 10:25:09
+830,Stand-alone composite support,24,309.24,29,True,2023-09-23 03:58:35
+831,Team-oriented reciprocal moderator,9,241.7,59,False,2024-01-06 09:26:30
+832,Centralized incremental service-desk,48,494.47,48,True,2023-12-02 16:02:59
+833,Upgradable disintermediate Internet solution,27,352.46,61,True,2024-03-07 18:14:21
+834,Advanced bandwidth-monitored moratorium,49,271.07,86,True,2024-11-27 01:22:33
+835,Integrated explicit flexibility,14,382.12,88,True,2024-02-27 10:21:06
+836,Virtual neutral flexibility,49,299.93,11,True,2024-12-13 01:10:27
+837,Synchronized 4thgeneration complexity,34,226.14,91,False,2024-02-14 05:04:14
+838,Fully-configurable web-enabled hub,24,43.66,73,True,2025-01-04 00:48:37
+839,Right-sized fault-tolerant intranet,8,35.57,71,False,2024-04-09 18:25:29
+840,Total background capability,33,105.07,69,False,2025-02-02 15:38:29
+841,Profound interactive protocol,10,86.45,67,True,2024-03-29 08:52:37
+842,Operative even-keeled access,29,62.54,27,False,2025-03-26 14:09:04
+843,Re-engineered executive benchmark,46,293.66,12,True,2024-07-30 13:57:00
+844,Monitored content-based process improvement,33,225.51,8,False,2024-11-04 17:01:19
+845,Triple-buffered asymmetric core,30,70.31,54,False,2023-08-11 08:20:58
+846,Intuitive fault-tolerant productivity,30,284.14,72,True,2024-03-01 04:32:53
+847,Inverse background software,30,338.02,40,False,2024-11-07 11:09:38
+848,Centralized multimedia conglomeration,47,15.78,33,True,2025-05-10 03:37:47
+849,Compatible static time-frame,1,374.17,75,True,2023-08-02 04:56:24
+850,Stand-alone dedicated functionalities,5,27.42,45,True,2024-03-16 06:59:34
+851,Seamless encompassing contingency,45,36.56,8,False,2024-10-02 23:35:11
+852,Reverse-engineered context-sensitive alliance,5,493.14,61,False,2023-11-24 15:31:20
+853,Front-line mission-critical implementation,3,147.11,24,False,2024-05-03 12:14:32
+854,Optional optimal protocol,50,72.04,83,False,2024-10-20 02:27:50
+855,Enhanced zero-defect concept,47,324.71,54,False,2024-04-06 14:40:54
+856,Focused discrete monitoring,24,496.46,49,True,2023-09-22 13:18:15
+857,Re-contextualized eco-centric array,29,435.46,49,True,2024-11-08 15:33:26
+858,Quality-focused zero tolerance system engine,25,44.72,85,True,2024-10-27 00:01:31
+859,Synergistic 3rdgeneration process improvement,35,70.83,45,True,2025-03-11 15:01:34
+860,Integrated clear-thinking focus group,8,93.34,69,False,2024-11-13 03:55:49
+861,Distributed explicit ability,26,266.78,94,True,2024-06-05 22:28:34
+862,Synergistic context-sensitive migration,15,418.24,97,False,2023-12-04 23:50:47
+863,Future-proofed incremental core,2,489.35,60,True,2025-03-29 02:40:34
+864,Innovative systematic model,44,360.95,55,False,2024-10-23 15:27:36
+865,Focused disintermediate extranet,35,192.74,30,True,2024-07-13 05:15:37
+866,Multi-layered bi-directional support,16,233.01,20,False,2024-05-03 05:36:39
+867,Optional reciprocal extranet,18,98.3,93,False,2023-08-10 01:36:41
+868,Profit-focused intermediate time-frame,49,60.86,85,True,2025-04-02 18:11:17
+869,Horizontal context-sensitive forecast,27,309.39,3,True,2025-01-27 03:25:22
+870,Realigned context-sensitive info-mediaries,16,107.01,13,False,2023-10-23 20:10:57
+871,Reactive full-range Graphical User Interface,39,21.62,77,True,2024-06-25 10:52:34
+872,Future-proofed demand-driven Graphical User Interface,44,353.13,7,True,2024-10-02 18:11:25
+873,Monitored cohesive task-force,16,371.57,52,False,2024-11-15 05:48:17
+874,Programmable regional hub,29,121.0,28,False,2024-02-08 08:40:44
+875,Polarized responsive access,49,432.55,8,True,2024-09-26 07:28:35
+876,Optimized real-time interface,9,254.43,38,True,2024-03-21 21:50:52
+877,Expanded fresh-thinking policy,15,408.81,94,True,2025-04-24 04:09:27
+878,Phased impactful groupware,37,162.86,77,True,2024-01-28 23:32:05
+879,Persevering bottom-line website,50,337.9,42,False,2024-08-21 08:40:12
+880,Exclusive 24hour alliance,16,154.37,19,False,2024-10-13 20:45:51
+881,Reverse-engineered global focus group,43,263.02,53,True,2024-09-11 16:17:00
+882,Profound logistical data-warehouse,20,141.2,72,True,2024-02-18 07:42:30
+883,User-centric upward-trending pricing structure,38,440.46,23,False,2024-05-19 07:47:20
+884,Synchronized homogeneous model,41,340.98,72,False,2024-06-09 20:47:40
+885,Organized optimizing monitoring,32,28.21,45,False,2024-10-04 03:14:30
+886,Fundamental logistical adapter,42,337.31,68,False,2025-01-06 10:24:14
+887,Customer-focused logistical standardization,21,349.67,53,False,2023-07-29 09:22:02
+888,Optional optimal application,10,153.44,24,True,2025-04-29 10:24:20
+889,Fundamental regional intranet,49,271.27,31,True,2023-09-12 20:43:01
+890,Assimilated well-modulated data-warehouse,15,153.86,91,False,2024-01-30 14:36:05
+891,Universal local benchmark,10,403.86,8,True,2024-05-11 17:32:53
+892,Polarized heuristic instruction set,36,209.28,54,False,2025-01-27 11:34:24
+893,Inverse 24hour projection,36,267.35,50,True,2023-09-09 14:03:02
+894,Quality-focused upward-trending middleware,16,131.22,43,False,2023-07-27 15:29:41
+895,Synergized bandwidth-monitored info-mediaries,42,44.14,58,False,2024-12-07 10:39:51
+896,Implemented empowering open system,24,50.77,93,False,2024-12-23 16:20:50
+897,Enterprise-wide demand-driven forecast,13,30.51,49,False,2023-12-20 06:27:24
+898,Multi-layered reciprocal productivity,44,304.46,6,False,2024-10-01 02:24:31
+899,Programmable fresh-thinking adapter,5,98.14,98,True,2024-03-19 22:14:14
+900,Virtual 3rdgeneration project,38,363.53,72,True,2025-03-10 03:34:26
+901,Open-source incremental strategy,14,242.3,43,False,2025-03-17 11:41:49
+902,Focused mobile Graphical User Interface,20,478.72,2,True,2023-08-16 11:56:12
+903,Devolved transitional synergy,14,468.89,95,True,2025-06-11 02:57:59
+904,Enhanced next generation Internet solution,8,374.71,97,True,2024-07-12 10:24:53
+905,Total national parallelism,31,457.65,90,True,2025-06-09 18:40:20
+906,Managed local capability,39,353.37,51,True,2023-08-06 23:13:59
+907,De-engineered full-range approach,16,278.28,100,False,2025-05-09 12:28:40
+908,Front-line national Graphic Interface,19,193.43,69,False,2024-07-27 02:14:31
+909,Optimized value-added conglomeration,42,182.83,34,False,2024-04-29 11:04:20
+910,Innovative multimedia utilization,24,258.84,64,True,2024-11-11 19:28:27
+911,Open-source well-modulated system engine,30,53.81,93,True,2024-08-16 21:49:12
+912,Stand-alone executive orchestration,31,382.01,41,True,2025-02-20 10:34:17
+913,User-friendly incremental open architecture,14,188.5,53,True,2024-12-14 10:11:26
+914,Networked dedicated Graphic Interface,3,283.45,29,False,2024-04-09 13:53:20
+915,Face-to-face 3rdgeneration success,48,77.23,34,True,2023-07-28 23:47:51
+916,Visionary attitude-oriented task-force,36,467.71,75,True,2024-06-17 07:17:38
+917,Reactive object-oriented implementation,47,211.7,20,False,2024-03-27 02:49:34
+918,Configurable reciprocal projection,13,168.28,49,True,2023-07-13 07:12:26
+919,Virtual explicit project,37,417.51,64,False,2025-05-09 19:44:05
+920,Multi-layered client-server strategy,36,329.03,88,False,2024-07-03 03:25:09
+921,Monitored multi-tasking implementation,22,132.38,63,False,2024-07-14 22:25:35
+922,Business-focused didactic info-mediaries,47,322.64,63,True,2024-05-29 09:55:00
+923,Digitized actuating core,30,88.28,46,False,2024-06-04 05:52:42
+924,Extended eco-centric framework,11,74.28,70,False,2024-02-15 13:39:42
+925,Extended responsive policy,32,96.1,70,True,2024-05-20 02:27:09
+926,Profound zero-defect policy,42,478.83,68,True,2025-02-11 11:35:24
+927,User-centric transitional encryption,3,420.34,10,True,2023-10-01 15:03:18
+928,Public-key asynchronous service-desk,43,29.01,1,True,2023-12-11 11:36:22
+929,Face-to-face holistic intranet,27,73.06,81,False,2024-06-03 15:16:50
+930,Cross-group mission-critical structure,15,38.64,20,False,2025-06-11 20:24:06
+931,Business-focused local definition,1,113.27,59,True,2025-05-30 05:09:09
+932,Organized exuding focus group,24,34.92,82,True,2024-07-04 03:58:54
+933,Persistent interactive conglomeration,43,467.28,62,False,2024-05-28 06:22:29
+934,Devolved human-resource encryption,43,246.49,1,False,2024-06-21 08:37:30
+935,Public-key foreground standardization,35,278.06,2,True,2024-08-10 19:16:12
+936,Seamless neutral portal,2,267.06,36,False,2025-04-04 03:24:21
+937,Proactive empowering toolset,35,488.85,3,False,2025-03-03 19:31:27
+938,Multi-layered reciprocal flexibility,33,407.51,87,False,2024-02-19 21:58:03
+939,Streamlined disintermediate forecast,28,404.05,23,False,2025-01-15 19:19:44
+940,Managed client-driven parallelism,7,459.43,68,True,2025-05-01 02:42:51
+941,Ergonomic local synergy,10,124.28,80,False,2025-03-14 13:18:04
+942,Function-based 4thgeneration system engine,34,129.95,46,True,2024-07-15 23:35:36
+943,Networked maximized instruction set,18,398.49,11,False,2024-07-15 07:13:07
+944,Horizontal 4thgeneration firmware,24,479.85,59,True,2023-07-29 14:33:23
+945,Polarized intangible Local Area Network,37,125.39,90,True,2023-09-12 15:33:46
+946,Integrated radical intranet,15,153.49,11,True,2023-12-14 05:41:22
+947,Innovative background archive,42,495.88,84,True,2025-02-17 01:17:55
+948,Phased zero administration database,49,20.68,52,False,2025-03-06 14:07:12
+949,Expanded analyzing process improvement,25,191.7,61,False,2023-08-26 07:20:03
+950,Automated secondary structure,4,320.19,90,True,2024-09-27 14:22:04
+951,Grass-roots user-facing alliance,11,45.93,56,False,2024-04-26 12:23:42
+952,Object-based heuristic success,42,393.27,73,False,2023-11-05 15:06:01
+953,Front-line value-added frame,7,447.92,6,False,2024-02-01 16:35:24
+954,Mandatory dynamic moderator,15,109.65,89,True,2024-12-01 14:59:55
+955,Switchable interactive hierarchy,37,240.37,6,True,2024-04-02 17:08:45
+956,Enterprise-wide dedicated service-desk,5,343.79,36,True,2024-05-26 19:43:41
+957,Optional 5thgeneration product,35,283.94,5,False,2025-06-22 03:18:40
+958,Synchronized well-modulated access,12,464.74,41,True,2024-01-30 05:37:28
+959,Persistent 4thgeneration orchestration,2,480.93,76,False,2023-09-11 05:20:33
+960,Cloned analyzing support,10,377.37,92,True,2025-04-05 02:03:47
+961,Integrated optimal system engine,26,464.79,39,False,2024-04-18 00:41:27
+962,Operative asynchronous artificial intelligence,11,284.16,73,False,2024-12-28 14:36:47
+963,Virtual radical middleware,25,340.13,70,False,2024-10-13 14:16:04
+964,User-centric impactful functionalities,22,195.0,95,True,2023-09-17 12:00:25
+965,Reactive bi-directional software,9,396.3,89,True,2024-08-05 07:42:09
+966,Extended value-added knowledge user,47,43.82,96,True,2024-05-19 04:34:49
+967,Optimized asynchronous function,23,31.58,56,False,2024-03-06 02:33:41
+968,Phased local interface,15,420.14,44,True,2024-08-11 19:15:05
+969,Stand-alone well-modulated project,39,385.66,77,False,2024-08-12 02:36:54
+970,Pre-emptive static ability,26,484.62,42,True,2025-01-21 18:35:20
+971,Persistent upward-trending paradigm,2,318.89,58,False,2024-05-17 17:12:14
+972,Synchronized solution-oriented toolset,32,117.93,71,True,2024-09-09 09:52:31
+973,Digitized tertiary pricing structure,25,218.76,88,True,2025-02-06 04:11:19
+974,Multi-layered transitional challenge,38,332.03,11,True,2024-05-20 23:53:06
+975,Mandatory radical parallelism,50,311.21,32,True,2023-07-25 03:20:25
+976,Progressive secondary process improvement,46,41.39,35,True,2024-02-11 15:50:54
+977,Universal composite standardization,10,193.1,82,True,2024-12-30 08:00:26
+978,Focused 24hour superstructure,10,371.13,41,True,2024-09-30 03:26:24
+979,Triple-buffered contextually-based methodology,24,57.74,1,False,2025-06-16 13:57:39
+980,Horizontal 3rdgeneration functionalities,20,225.14,98,True,2025-04-23 03:20:48
+981,Polarized systemic encoding,18,55.6,12,False,2024-08-30 16:17:46
+982,Optimized context-sensitive collaboration,12,218.33,72,True,2024-01-24 21:54:08
+983,Centralized heuristic architecture,36,258.66,14,True,2025-05-22 06:17:55
+984,Cross-group national info-mediaries,2,49.36,71,True,2023-08-06 03:27:16
+985,Integrated mobile function,6,300.48,42,False,2025-05-16 00:07:43
+986,Fully-configurable didactic neural-net,25,11.11,53,False,2025-04-23 00:13:34
+987,Cross-group eco-centric knowledgebase,25,390.69,93,False,2025-02-06 09:19:24
+988,Profit-focused global concept,36,453.08,32,True,2024-06-29 16:17:32
+989,Innovative exuding capacity,37,262.95,88,True,2023-12-05 02:46:19
+990,Inverse real-time firmware,25,88.9,35,True,2023-09-30 04:45:18
+991,Ameliorated value-added service-desk,20,137.86,19,True,2025-06-22 20:07:52
+992,Up-sized directional toolset,5,87.77,36,False,2024-07-19 14:19:29
+993,Stand-alone directional help-desk,27,153.38,10,True,2024-09-01 10:03:52
+994,User-friendly systemic standardization,24,129.59,32,False,2025-05-09 15:01:15
+995,Open-source incremental function,47,314.39,77,False,2024-07-18 05:03:10
+996,Innovative bandwidth-monitored database,40,101.8,14,True,2023-12-17 05:10:12
+997,Multi-lateral asynchronous middleware,9,155.81,51,False,2023-12-05 01:17:50
+998,Advanced client-server help-desk,22,421.6,49,False,2024-04-27 12:23:38
+999,Exclusive encompassing instruction set,22,222.91,56,False,2024-03-15 07:46:45
+1000,Public-key attitude-oriented hardware,42,487.24,18,True,2024-11-06 05:33:00
